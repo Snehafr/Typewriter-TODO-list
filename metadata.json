@@ -1,0 +1,6 @@
+{
+  "name": "Typewriter To-Do",
+  "description": "An authentic mechanical typewriter to-do list featuring vintage paper feed, mechanical sound effects, carriage return, and tactile task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
